@@ -1,6 +1,6 @@
-# hello_docker
+# hello-docker
 
-hello_docker is a a example for docker.
+hello-docker is an example for docker.
 
 ## contents
 
@@ -17,4 +17,4 @@ docker run -d -P --restart=always dystargate/hello-docker:{$tagId}
 
 ## docker hub
 
-see [the docker hub](https://hub.docker.com/r/dystargate/hello-docker/).
+see [the docker hub](https://hub.docker.com/repository/docker/dystargate/hello-docker).
